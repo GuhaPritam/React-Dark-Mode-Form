@@ -22,7 +22,6 @@ function App() {
       <Navbar title="Pritam Guha" aboutText="Home" mode={mode} toggleMode={toggleMode}></Navbar>
       <div className="container my-3">
         <TextForm heading='Enter the text' mode={mode} />
-        {/* <About /> */}
       </div>
     </>
   );
