@@ -10,7 +10,9 @@ My blogs link --------------->
 https://blog.pritamguha.com/
 
 Mode (Light) ----> 
+
 ![image](https://github.com/CupOfSolution/React-Dark-Mode-Form/assets/71080574/d1110772-f1b1-452c-b408-b3c56dbc6a68)
 
 Mode (Black) ---->
+
 ![image](https://github.com/CupOfSolution/React-Dark-Mode-Form/assets/71080574/03ad8390-e640-49b2-be69-9390b7aa1549)
