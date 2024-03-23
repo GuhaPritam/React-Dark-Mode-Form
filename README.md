@@ -13,11 +13,9 @@ This is a React project demonstrating the usage of `useState`. It's a form build
 - HTML
 
 
-My website link ------------->
-https://www.pritamguha.com/
-
-My blogs link --------------->
-https://blog.pritamguha.com/
+## Links:
+- [Website](https://www.pritamguha.com/)
+- [Blog](https://blog.pritamguha.com/)
 
 Mode (Light) ----> 
 
